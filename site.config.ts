@@ -26,6 +26,7 @@ export const site: SiteConfig = {
       { src: "/images/post-2.jpg", alt: "Fresh and clean haircut by Aymen", width: 1080, height: 1920 },
       { src: "/images/post-6.jpg", alt: "The barbershop comes to you", width: 621, height: 828 },
     ],
+    primaryCta: { label: "DM to book", href: "https://instagram.com/thebarberaymen.ca" },
     secondaryCta: { label: "See the work", href: "#gallery" },
   },
 
